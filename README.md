@@ -1,5 +1,5 @@
 ### Hi there I'm Ankit Kumar👋
-I'm a Coder and a Gamer !!
+### I'm a Coder and a Gamer !!
 
 - 🔭 I’m currently working on Developing Skills
 - 🌱 I’m currently learning DSA
